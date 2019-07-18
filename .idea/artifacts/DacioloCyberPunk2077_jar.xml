@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DacioloCyberPunk2077:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DacioloCyberPunk2077_jar</output-path>
+    <root id="archive" name="DacioloCyberPunk2077.jar">
+      <element id="module-output" name="DacioloCyberPunk2077" />
+    </root>
+  </artifact>
+</component>
